@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/crick/commit/720de70c6adf28cb30e8293597ed03b90d09bba8",
       "git:hexsha": "720de70c6adf28cb30e8293597ed03b90d09bba8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dask/crick/commit/2426b3c3ed4c3bf6231db6868514dba159ff495a",
